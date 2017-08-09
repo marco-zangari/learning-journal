@@ -5,3 +5,5 @@ Many successes were had. I think I finally might have figured out how git hub, m
 The project for day 2, a simply three page set up with an html, js, and css file could have gone much better. I was pleased with the js component of it. I was able to make the operators operate. I think that is the right word. That is to say, I made the if, else if, else statements work. However, I am still rather hazy on what the console.log function will get me really. Yes, it puts something onto the console. But I am already putting something onto the console when I have made the if/conditional. I think I may need to play around more with this project.
 
 That sentiment, of having to revisit the projects putatively completed, most likely is going to be on heavy repeat throughout the rest of the class.
+
+Here we go. More stuff!
