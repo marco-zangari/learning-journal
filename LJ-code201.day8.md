@@ -1,0 +1,3 @@
+Made sure to understand how the functions were working today. Made such good progress. I was able to make a table; include table row and table data; and made sure that the data, which populated the rows, was good data. I went through the code enough times that I think I can explain it competently.
+
+Lots of help today from many. Big shout outs to Brian and Gabe and Chelsea for getting me to see how complicated I was making my table method in my code. There was no need to make the loops nested, i.e. I was having the numbers for simulated sales, move through five times too many times. Fixed that right up though!
