@@ -1,0 +1,5 @@
+It was a catch up day. The morning code demo wore me out. I was able to follow the constructor functions that Gabe created, modelled on the function that Nick produced the morning previously. Nice loop of learning that happened.
+
+I really worked through a wire-frame exercise today. I went through all the problem domains from this week. I made a list of things that I had yet to account for. I then scetched out what I needed to do to get something up and running, i.e. what it would look like. And then labeled the pieces that were missing based on the review of the problem domains. I need to do more of that. While I was working through the labs, I was especially able to focus on working through a plan and knew where I was - usually behind - but at least I knew where I was more fully.
+
+A good meeting with Nick in afternoon. Some good advice about asking for help more, oh yeah. Too he looked ahead to what the project is for next week. We also talked about the importance of planning before diving into the fourth week projects. A good day.
