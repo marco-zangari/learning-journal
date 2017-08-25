@@ -1,0 +1,3 @@
+A surprising day in so far as I thought that there was going to be more time to work in our final project groups. Instead there was the lab, which really turned out to test the limits of what we were able to do. It did not go as smoothly as we would have liked. Alas. We got much of the work done. There are still a few things to work out before we send it in. But by and large are eyes were glazing over.
+
+It was interesting to see the difference between functional and procedural coding. That kind of blew my mind thinking about how differently things can be done to do the same thing. Pretty awesome.
