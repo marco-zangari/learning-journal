@@ -1,0 +1,3 @@
+Good day today. My brain slowed some things down today: code review continued to be really great. However, I find that I am being hard on myself for not getting through more so that I can see what I have already done against the person's code that is being shown. Have to not be too hard on myself about it because stuff is still popping, to be more specific, getting clearer really fast.
+
+Project planning was pretty fun. I have been looking forward to project week and so far the team is taking very seriously the planning of the project workflow. I really like that there is no coding on the project over the weekend. It means that we have to put into English what we want to do and plan what things we are going to make happen before we make them happen. Yup!  
