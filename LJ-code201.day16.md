@@ -1,0 +1,3 @@
+I am feeling exhausted and invigorated. We had a good group dynamic. We set some communication ground rules that I think are pretty good. For instance, we came up with Sudo Code review so that we can all know what is going to happen before someone starts working on a feature. It is a good way to ensure that every team member knows what someone is working on and that the whoever is working on something knows where a feature is supposed to do. I.e. buddyMaker makes a buddy and so on. I am really excited that we agreed to this and I think it is going to be really important as we go forward to account for edge cases and the kinds of things that can potentially break the code.
+
+Project Week!
