@@ -1,0 +1,5 @@
+That was a fast four weeks. Friday, the last day, was incredibly odd. There was not much to do in so far as we as a group did not wish to practice anymore for the presentation. And we had decided to keep our hands off the functionality of the project. Therefore we simply had the morning to fix some minor CSS issues with the CFStudy site and to discuss our presentation.
+
+I took time to check in with other groups so as to find out what they did to resolve their challenges. I knew that the presentation brief required some talk of challenges faced, but a presentation is one way to hear about them and face to face is another. I wanted to make sure that I heard more variations on what challenges looked like and how individuals dealt with them.
+
+What I learned today was that I had a goal to check in with other teams at the beginning of the week, yet I did not until today. I want to make sure that the next time I don't isolate myself as much. I think it would helpful in so far as they can only really be a resource if they are asked to be one.
